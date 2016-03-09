@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ipaddress
+Exec=ipaddress
+Icon=ipaddress/ipaddress.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

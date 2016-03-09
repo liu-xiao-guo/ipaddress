@@ -1,0 +1,17 @@
+{
+    "name": "ipaddress.liu-xiao-guo",
+    "description": "description of ipaddress",
+    "architecture": "@CLICK_ARCH@",
+    "title": "ipaddress",
+    "hooks": {
+        "ipaddress": {
+            "apparmor": "ipaddress/ipaddress.apparmor",
+            "desktop":  "ipaddress/ipaddress.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
